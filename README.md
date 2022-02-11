@@ -1,1 +1,1 @@
-# Pricing-Panel-Project
+Pricing Panel Using HTML and CSS
